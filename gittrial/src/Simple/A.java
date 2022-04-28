@@ -14,6 +14,8 @@ public class A {
 		
 		System.out.println("nilesh3");
 		
+		System.out.println("delete");
+		
 		
 	}
 
