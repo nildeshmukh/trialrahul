@@ -17,7 +17,7 @@ public class A {
 		System.out.println("delete");
 
 		System.out.println("111111");
-		System.out.println("222222");
+		System.out.println("3333333333");
 	}
 
 }
