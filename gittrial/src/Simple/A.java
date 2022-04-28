@@ -10,6 +10,9 @@ public class A {
 		
 		System.out.println("rahul");
 		
+		System.out.println("nilesh1");
+		
+		System.out.println("nilesh3");
 	}
 
 }
